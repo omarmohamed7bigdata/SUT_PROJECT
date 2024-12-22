@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin"
+    },
+    "Omar": {
+        "password": "1382396abf20b23a3ac9b22852df9647f7d4c155e92e28c6fa463fcb06ca80cf",
+        "role": "student"
+    }
+}

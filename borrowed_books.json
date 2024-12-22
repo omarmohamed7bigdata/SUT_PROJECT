@@ -1,0 +1,16 @@
+[
+    {
+        "book_id": 2,
+        "book_title": "The Lord of the Rings",
+        "student_name": "Emma Wilson",
+        "borrow_date": "2024-11-14",
+        "due_date": "2024-11-28"
+    },
+    {
+        "book_id": 3,
+        "book_title": "To Kill a Mockingbird",
+        "student_name": "Michael Brown",
+        "borrow_date": "2024-11-29",
+        "due_date": "2024-12-13"
+    }
+]
